@@ -14,6 +14,7 @@
 合规先行：内嵌敏感信息检测、内幕消息提醒、数据隔离机制，回应金融行业对AI应用的核心关切
 二、技术架构总览
 2.1 四层架构设计
+
 交互层（Multi-Interface）          
 智能体编排层（Agent Orchestration）     
 模型服务层（Model Service）             
